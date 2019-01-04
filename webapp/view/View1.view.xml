@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 <mvc:View controllerName="shell.test_push2.controller.View1" xmlns:html="http://www.w3.org/1999/xhtml" xmlns:mvc="sap.ui.core.mvc"
+=======
+<mvc:View controllerName="com.shell.testPush.controller.View1" xmlns:html="http://www.w3.org/1999/xhtml" xmlns:mvc="sap.ui.core.mvc"
+>>>>>>> refs/heads/master
 	displayBlock="true" xmlns="sap.m">
 	<App id="idAppControl">
 		<pages>
